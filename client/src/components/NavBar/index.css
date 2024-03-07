@@ -1,0 +1,8 @@
+.bg-body-tertiary {
+    background-color: #34692B !important;
+    font-family: "IBM Plex Mono", monospace;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}

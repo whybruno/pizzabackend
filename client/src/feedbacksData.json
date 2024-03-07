@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Tanya",
+    "profileImage": "https://mir-s3-cdn-cf.behance.net/user/115/80a4b21648321591.6569ee0fca05d.jpg",
+    "message": "Best pizza in town! Perfect for a quick and delicious meal."
+  },
+  {
+    "id": 2,
+    "name": "Joe",
+    "profileImage": "https://mir-s3-cdn-cf.behance.net/user/115/fc0f3c65756275.65e16d2a6f960.jpg",
+    "message": "I love the variety of gourmet pizzas. The crust is always perfect."
+  },
+  {
+    "id": 3,
+    "name": "Mark",
+    "profileImage": "https://mir-s3-cdn-cf.behance.net/user/115/115cc61729522363.65783f35ca442.png",
+    "message": "Great service and super tasty. I highly recommend it!"
+  }
+]

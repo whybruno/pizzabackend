@@ -1,0 +1,123 @@
+:root {
+  --color-1: #131313;
+  --color-2: #E7311D;
+  --color-3: #34692B;
+  --color-4: #FFFDF8;
+  --color-5: #D4D4D4;
+  --color-6: #22E8C5;
+}
+
+.bg-color-1 {
+  background-color: var(--color-1) !important;
+}
+
+.bg-color-2 {
+  background-color: var(--color-2) !important;
+}
+
+.bg-color-3 {
+  background-color: var(--color-3) !important;
+}
+
+.bg-color-4 {
+  background-color: var(--color-4) !important;
+}
+
+.bg-card {
+  background-image: url({cardBackground});
+}
+
+.color-1 {
+  color: var(--color-1) !important;
+}
+
+.color-2 {
+  color: var(--color-2) !important;
+}
+
+.color-3 {
+  color: var(--color-3) !important;
+}
+
+.color-4 {
+  color: var(--color-4) !important;
+}
+
+.color-5 {
+  color: var(--color-5) !important;
+}
+
+.color-6 {
+  color: var(--color-6) !important;
+}
+
+.bg-dark {
+  background-color: var(--color-1) !important;
+}
+
+.btn-outline-dark {
+  background-color: var(--color-4) !important;
+  border-color: var(--color-1);
+  color: var(--color-1);
+}
+.btn-outline-dark:hover {
+  background-color: var(--color-1) !important;
+  color: var(--color-4);
+}
+
+.btn-paynow {
+  background-color: var(--color-2) !important;
+  color: var(--color-4) !important;
+}
+.btn-paynow:hover {
+  background-color: var(--color-4) !important;
+  border-color: var(--color-2) !important;
+  color: var(--color-2) !important;
+}
+
+.btn-send-message {
+  background-color: var(--color-2) !important;
+  color: var(--color-4) !important;
+}
+.btn-send-message:hover {
+  background-color: var(--color-3) !important;
+  color: var(--color-4) !important;
+}
+
+.btn-feedback {
+  background-color: var(--color-3) !important;
+  color: var(--color-4) !important;
+}
+.btn-feedback:hover {
+  background-color: var(--color-2) !important;
+  border-color: var(--color-4) !important;
+  color: var(--color-4) !important;
+}
+
+.border-dark {
+  border-color: var(--color-1) !important;
+}
+
+.border-light {
+  border-color: var(--color-5) !important;
+}
+
+.pizza-size {
+  color: var(--color-4);
+}
+.pizza-size:hover {
+  color: var(--color-2);
+  cursor: pointer;
+}
+
+.small-selected {
+  color: var(--color-2);
+}
+
+.large-selected {
+  color: var(--color-2);
+}
+
+#credit-card {
+  max-width: 35rem;
+}

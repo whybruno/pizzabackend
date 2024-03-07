@@ -1,0 +1,59 @@
+.registerForm { 
+    width:40%;
+    .logo {
+        width:130px;
+        height: 120px;
+    }
+    a {
+        text-decoration: none;
+        color: #E7311D;
+    }
+}
+
+.registerBtn {
+    text-align: start;
+
+    &:hover {
+        filter:brightness(80%);
+    }
+    svg {
+        margin: 0;
+        top: 0;
+    }
+}
+
+.registerImg {
+    object-fit: cover;
+    width: 55%;
+    padding: 0 0 0 auto;
+    margin: 0 0 0 auto;
+    /*height: 45em;*/
+}
+
+.bgimagecontainer {
+    background-image: url(../../assets/Heroimage/pizza-hero-2.jpeg);
+    background-size: cover;
+    margin-left: 0;
+    margin-right: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+}
+
+
+.register-container {
+   margin-top: 10em;
+}
+
+@media screen and (max-width: 576px) {
+    .registerForm {
+        width: 100%;
+    }
+    .register-container {
+        margin-top: 4.5rem;
+        margin-bottom: 0;
+    }
+    .registerImg {
+        display: none;
+    }
+}

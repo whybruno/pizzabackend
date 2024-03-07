@@ -1,0 +1,17 @@
+/* NotFound.css */
+
+.not-found {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h2 {
+    color: #e74c3c; 
+  }
+  
+  p {
+    color: #555; 
+  }
+  

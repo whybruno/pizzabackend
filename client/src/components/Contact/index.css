@@ -1,0 +1,46 @@
+/* Contact.css */
+
+/* index.css */
+
+/* Styling for the Contact form container */
+.contactForm {
+  max-width: 400px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 15px;
+}
+
+/* Styling for form labels */
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+/* Styling for form inputs and textarea */
+input,
+textarea {
+  border-radius: 5px;
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+/* Styling for the button */
+button {
+  padding: 10px 15px;
+  border: 1px solid;
+  border-radius: 10px;
+  cursor: pointer;
+  width: 160px;
+
+}
+
+/* Styling for the heading */
+h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+  

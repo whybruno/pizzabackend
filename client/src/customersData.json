@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "firstName": "React",
+    "lastName": "JS",
+    "email": "react@js.com",
+    "address": "00 Node",
+    "cityName": "London",
+    "postcode": "JS00 0JS",
+    "ccNumber": "1234 5678 9012 3456",
+    "ccExpiration": "12/24",
+    "ccCode": "123"
+  }
+]

@@ -1,0 +1,30 @@
+
+.feedback-container {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+}
+
+textarea {
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+button {
+  background-color: #2270be; 
+  color: white;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.feedback-list {
+  margin-top: 20px;
+}
+
+.feedback-item {
+  margin-bottom: 10px;
+}
+
+  
